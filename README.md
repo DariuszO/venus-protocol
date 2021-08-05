@@ -1,3 +1,9 @@
+<!--
+   - SPDX-FileCopyrightText: 2020 Compound Labs, Inc.
+   - SPDX-FileCopyrightText: 2021 Venus Labs, Inc.
+   - SPDX-License-Identifier: BSD-3-Clause
+-->
+
 [![CircleCI](https://circleci.com/SwipeWallet/venus-protocol/venus-protocol.svg?style=svg&circle-token=5ed19932325c559a06f71f87d69012aedd2cf3fb)](https://circleci.com/gh/SwipeWallet/venus-protocol) [![codecov](https://codecov.io/gh/SwipeWallet/venus-protocol/branch/master/graph/badge.svg?token=q4UvsvVzOX)](https://codecov.io/gh/SwipeWallet/venus-protocol)
 
 Venus Protocol
